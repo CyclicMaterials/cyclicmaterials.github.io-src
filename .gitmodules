@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://Frikki@github.com/CyclicMaterials/cyclicmaterials.github.io.git
