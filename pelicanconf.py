@@ -11,7 +11,7 @@ SITEDESCRIPTION = u'A Material Design Components Library Collection'
 
 ROBOTS = u'index, follow'
 
-THEME = u'Flex'
+THEME = u'./themes/Flex'
 PATH = u'content'
 TIMEZONE = u'Atlantic/Reykjavik'
 DEFAULT_LANG = u'en'

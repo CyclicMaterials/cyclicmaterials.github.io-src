@@ -85,7 +85,7 @@ pascal case.
 ```
 
 ```html
-<div class="molecule-InputContainer">
+<div class="molecule-InputCharCounter">
   ...
 </div>
 ```
