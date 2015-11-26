@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Cyclic Materials'
-SITEURL = ''
+SITEURL = '//cyclicmaterials.github.io'
 SITENAME = u'Cyclic Materials for Cycle.js'
 SITETITLE = u'Cyclic Materials'
 SITESUBTITLE = u'A Material Design Components Library Collection for Cycle.js'

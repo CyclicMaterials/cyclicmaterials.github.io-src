@@ -1,10 +1,10 @@
 Title: Release: molecule-input version 6.3.1
-Date: 2015-10-09
+Date: 2015-10-09 01:21:58
 Authors: Frederik Krautwald
 Category: Releases
-Tags: release, molecule, input
+Tags: release, patch, molecule, input
 Slug: release-molecule-input-6.3.1
-Summary: NEW RELEASE: molecule-input version 6.3.1
+Summary: PATCH RELEASE: molecule-input version 6.3.1
 
 [molecule-input version 6.3.1][1] has just been released. This release includes
 [bug fixes and performance improvements][2].
