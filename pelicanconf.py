@@ -10,6 +10,7 @@ SITESUBTITLE = u'A Material Design Components Library Collection for Cycle.js'
 SITEDESCRIPTION = u'A Material Design Components Library Collection'
 
 ROBOTS = u'index, follow'
+GOOGLE_ANALYTICS = u'UA-70718355-1'
 
 THEME = u'./themes/Flex'
 PATH = u'content'
