@@ -23,6 +23,7 @@
   <link rel="shortcut icon" href="{{ FAVICON }}" type="image/x-icon">
   <link rel="icon" href="{{ FAVICON }}" type="image/x-icon">
   {% endif %}
+  {% include "partial/ga.html" %}
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -93,7 +94,6 @@
       {% endif %}
     </footer>
   </main>
-  {% include "partial/ga.html" %}
   {% if ADD_THIS_ID %}
   <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ ADD_THIS_ID }}" async="async"></script>
   {% endif %}
